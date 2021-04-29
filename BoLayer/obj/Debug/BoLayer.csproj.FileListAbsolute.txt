@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\AdminConsoleMVC\BoLayer\bin\Debug\BoLayer.dll
+C:\Users\Lenovo\source\repos\AdminConsoleMVC\BoLayer\bin\Debug\BoLayer.pdb
+C:\Users\Lenovo\source\repos\AdminConsoleMVC\BoLayer\obj\Debug\BoLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AdminConsoleMVC\BoLayer\obj\Debug\BoLayer.dll
+C:\Users\Lenovo\source\repos\AdminConsoleMVC\BoLayer\obj\Debug\BoLayer.pdb
+C:\Users\Lenovo\source\repos\AdminConsoleMVC\BoLayer\bin\Debug\BoLayer.dll.config
+C:\Users\Lenovo\source\repos\AdminConsoleMVC\BoLayer\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\AdminConsoleMVC\BoLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\AdminConsoleMVC\BoLayer\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\AdminConsoleMVC\BoLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\AdminConsoleMVC\BoLayer\obj\Debug\BoLayer.csproj.CopyComplete
